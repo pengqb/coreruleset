@@ -264,6 +264,7 @@ efax
 emacs
 endif
 endsw
+env@
 env-update
 eqn
 es
@@ -314,7 +315,7 @@ fi~
 flock
 flock@
 flock~
-fmt
+fmt@
 fold
 fold@
 fold~
@@ -669,6 +670,7 @@ set~
 sg
 sg@
 sg~
+sh@
 shadow
 shadow@
 shadow~

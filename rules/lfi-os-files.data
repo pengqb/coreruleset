@@ -35,7 +35,7 @@
 .deployment-secrets.txt
 .docker/
 .drush/
-# .env
+#误报高 .env
 .envrc
 .eslintignore
 .fbcindex
